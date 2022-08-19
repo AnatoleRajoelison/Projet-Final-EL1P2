@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "axios": "^0.27.2",
+    "bootstrap": "4.6.0",
+    "formik": "^2.2.9",
+    "react-router-dom": "^5.2.0",
+    "yup": "^0.32.11"
+  }
+}
